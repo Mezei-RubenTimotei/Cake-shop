@@ -1,0 +1,3 @@
+C:/Users/timo/CLionProjects/Cake-master/cmake-build-debug/CMakeFiles/CAKE.dir
+C:/Users/timo/CLionProjects/Cake-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timo/CLionProjects/Cake-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

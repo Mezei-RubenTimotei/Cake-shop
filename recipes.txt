@@ -1,0 +1,7 @@
+savarina 5
+dobos 10
+cremes 2
+ora12 4
+amandina 3
+ecler 4
+kinder 1
